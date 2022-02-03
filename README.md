@@ -11,8 +11,8 @@ I have a strong interest in servers and back-end development and plan on learnin
 When i'm not coding, you can find me producing music or at the dog park!
 
 
-Languages
-JavaScript HTML CSS Postgres
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=addy-abid&hide=javascript,css,scss,html&theme=tokyonight)
+
 
 <!--
 **addy-abid/addy-abid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
