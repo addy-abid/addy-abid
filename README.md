@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hello 👋
 
+My name is Adnan Abid, I am a full stack software engineer! 
 <!--
 **addy-abid/addy-abid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
