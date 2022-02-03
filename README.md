@@ -10,7 +10,6 @@ I have a strong interest in servers and back-end development and plan on learnin
 
 When i'm not coding, you can find me producing music or at the dog park!
 
-
 ## 🧰 Languages and Tools:
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg" alt="html" height="40" style="vertical-align:top; margin:40px">
@@ -23,6 +22,9 @@ When i'm not coding, you can find me producing music or at the dog park!
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/webpack/webpack-original.svg" alt="webpack" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/babel/babel-original.svg" alt="babel" height="40" style="vertical-align:top; margin:4px">
 </p>
+
+## Connect with me on [LinkedIn](https://www.linkedin.com/in/adnan-abid/)
+
 
 
 <!--
