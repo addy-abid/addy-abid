@@ -27,6 +27,7 @@ When i'm not coding, you can find me producing music or at the dog park!
 
 * [LinkedIn](https://www.linkedin.com/in/adnan-abid/)
 
+* [Resume](https://github.com/addy-abid/addy-abid/files/7998903/Adnan-Abid-Resume.pdf)
 
 
 <!--
