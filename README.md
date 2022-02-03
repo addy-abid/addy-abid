@@ -11,7 +11,7 @@ I have a strong interest in servers and back-end development and plan on learnin
 When i'm not coding, you can find me producing music or at the dog park!
 
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=addy-abid&hide=javascript,css,scss,html&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=addy-abid&&theme=tokyonight)
 
 
 <!--
