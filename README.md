@@ -23,7 +23,9 @@ When i'm not coding, you can find me producing music or at the dog park!
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/babel/babel-original.svg" alt="babel" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-## Connect with me on [LinkedIn](https://www.linkedin.com/in/adnan-abid/)
+## Lets's Connect!
+
+* [LinkedIn](https://www.linkedin.com/in/adnan-abid/)
 
 
 
