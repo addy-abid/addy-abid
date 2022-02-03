@@ -1,8 +1,6 @@
 ### Hello i'm Adnan👋
 
-Hello! My name is Adnan Abid and I am a software engineer with a passion for fixing things!
-
-I know JavaScript, React, Node.js, Express and more!
+Hello! My name is Adnan Abid and I am a software engineer with a passion for fixing things! I know JavaScript, React, Node.js, Express and more!
 
 I love asking questions and breaking things down to learn how they work. 
 
