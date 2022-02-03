@@ -10,7 +10,7 @@ I have a strong interest in servers and back-end development and plan on learnin
 
 When i'm not coding, you can find me producing music or at the dog park!
 
-(https://github-readme-stats.vercel.app/api?username=addy-abid)](https://github.com/anuraghazra/github-readme-stats)
+[a](https://github-readme-stats.vercel.app/api?username=addy-abid)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🧰 Languages and Tools:
