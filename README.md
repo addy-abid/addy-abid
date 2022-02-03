@@ -10,6 +10,9 @@ I have a strong interest in servers and back-end development and plan on learnin
 
 When i'm not coding, you can find me producing music or at the dog park!
 
+(https://github-readme-stats.vercel.app/api?username=addy-abid)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## 🧰 Languages and Tools:
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg" alt="html" height="40" style="vertical-align:top; margin:40px">
@@ -27,20 +30,6 @@ When i'm not coding, you can find me producing music or at the dog park!
 
 * [LinkedIn](https://www.linkedin.com/in/adnan-abid/)
 
-* [Resume](https://github.com/addy-abid/addy-abid/files/7998903/Adnan-Abid-Resume.pdf)
+<!-- * [Resume](https://github.com/addy-abid/addy-abid/files/7998903/Adnan-Abid-Resume.pdf) -->
 
 
-<!--
-**addy-abid/addy-abid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
