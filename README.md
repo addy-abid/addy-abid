@@ -2,13 +2,14 @@
 
 Hello! My name is Adnan Abid and I am a software engineer with a passion for fixing things! I know JavaScript, React, Node.js, Express and more!
 
-I love asking questions and breaking things down to learn how they work. 
+I love asking questions and breaking things down to learn how they work.
 
-With a background in finance, I learned there was only so much you can do while still adhereing to regulations which is why coding has been so great: there are endless posibilities! 
+With a background in finance, I learned there was only so much you can do while still adhering to regulations which is why coding has been so great: there are endless possibilities!
 
-I have a strong interest in servers and back-end development and plan on learning so more technologies in that area.
+I have a strong interest in servers and back-end development and plan on learning more technologies in that area.
 
-When i'm not coding, you can find me producing music or at the dog park!
+When I'm not coding, you can find me producing music or at the dog park!
+
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=addy-abid&hide=stars&show_icons=true&theme=monokai)
 
